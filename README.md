@@ -36,26 +36,14 @@ Rakesh Ramesh Baddi
 
 ---
 
-- To run in production mode run
+- To run the backend server run 
 
 ```console
-npm run start
-```
-
-- To run the backend server run
-
-```console
-npm run server
+node server.js
 ```
 
 - To run client (react server) run
 
 ```console
-npm run client
-```
-
-- To run both client and backend same time run
-
-```console
-npm run dev
+npm start
 ```
